@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListYamaha</string>
+    <string name="bike_name">Nama Sepeda Motor</string>
+    <string name="desc">Asal</string>
+</resources>
